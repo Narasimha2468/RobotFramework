@@ -1,0 +1,43 @@
+[2024-06-05 16:16:59.082] - [INFO] - Testcase 'AW01' execution started
+[2024-06-05 16:17:03.600] - [INFO] - Chrome is launched to URL https://qanewidocx.impactosuitedeveloper.com
+[2024-06-05 16:17:04.290] - [INFO] - Inputed text 'NARASHIMHA_IN' in the 'userName' field
+[2024-06-05 16:17:04.942] - [INFO] - Inputed text 'Nara@123' in the 'password' field
+[2024-06-05 16:17:05.523] - [INFO] - Clicked on the 'login' button
+[2024-06-05 16:17:07.029] - [INFO] - Inputed text '121212' in the 'OTP' field
+[2024-06-05 16:17:07.532] - [INFO] - Clicked on the 'verifyOTP' button
+[2024-06-05 16:17:08.872] - [INFO] - Clicked on the 'workspace' button
+[2024-06-05 16:17:09.048] - [INFO] - 'autoWorkspace' is visible on screen
+[2024-06-05 16:17:09.220] - [INFO] - 'manualWorkspace' is visible on screen
+[2024-06-05 16:17:09.390] - [INFO] - 'memberWorkspace' is visible on screen
+[2024-06-05 16:17:09.924] - [INFO] - Clicked on the 'autoWorkspace' button
+[2024-06-05 16:17:10.339] - [INFO] - 'autoWorkspaceData' is visible on screen
+[2024-06-05 16:17:12.440] - [INFO] - Testcase 'AW01' execution ended
+[2024-06-05 16:17:12.454] - [INFO] - Testcase 'AW02' execution started
+[2024-06-05 16:17:21.188] - [INFO] - Chrome is launched to URL https://qanewidocx.impactosuitedeveloper.com
+[2024-06-05 16:17:21.912] - [INFO] - Inputed text 'NARASHIMHA_IN' in the 'userName' field
+[2024-06-05 16:17:22.558] - [INFO] - Inputed text 'Nara@123' in the 'password' field
+[2024-06-05 16:17:23.149] - [INFO] - Clicked on the 'login' button
+[2024-06-05 16:17:24.642] - [INFO] - Inputed text '121212' in the 'OTP' field
+[2024-06-05 16:17:25.148] - [INFO] - Clicked on the 'verifyOTP' button
+[2024-06-05 16:17:26.356] - [INFO] - Clicked on the 'workspace' button
+[2024-06-05 16:17:26.534] - [INFO] - 'autoWorkspace' is visible on screen
+[2024-06-05 16:17:26.702] - [INFO] - 'manualWorkspace' is visible on screen
+[2024-06-05 16:17:26.869] - [INFO] - 'memberWorkspace' is visible on screen
+[2024-06-05 16:17:27.404] - [INFO] - Clicked on the 'autoWorkspace' button
+[2024-06-05 16:17:29.367] - [INFO] - Clicked on the 'insideFolder' button
+[2024-06-05 16:17:31.552] - [INFO] - Testcase 'AW02' execution ended
+[2024-06-05 16:17:31.591] - [INFO] - Testcase 'AW03' execution started
+[2024-06-05 16:17:40.597] - [INFO] - Chrome is launched to URL https://qanewidocx.impactosuitedeveloper.com
+[2024-06-05 16:17:41.285] - [INFO] - Inputed text 'NARASHIMHA_IN' in the 'userName' field
+[2024-06-05 16:17:41.887] - [INFO] - Inputed text 'Nara@123' in the 'password' field
+[2024-06-05 16:17:42.462] - [INFO] - Clicked on the 'login' button
+[2024-06-05 16:17:43.979] - [INFO] - Inputed text '121212' in the 'OTP' field
+[2024-06-05 16:17:44.506] - [INFO] - Clicked on the 'verifyOTP' button
+[2024-06-05 16:17:45.772] - [INFO] - Clicked on the 'workspace' button
+[2024-06-05 16:17:45.944] - [INFO] - 'autoWorkspace' is visible on screen
+[2024-06-05 16:17:46.128] - [INFO] - 'manualWorkspace' is visible on screen
+[2024-06-05 16:17:46.295] - [INFO] - 'memberWorkspace' is visible on screen
+[2024-06-05 16:18:06.798] - [ERROR] - Element 'xpath://mat-card//div[contains(text(),'LML1')]' not visible after 20 seconds.
+[2024-06-05 16:18:06.948] - [INFO] - Error screenshot captured
+[2024-06-05 16:18:07.025] - [INFO] - Testcase 'AW03' failed
+[2024-06-05 16:18:14.637] - [INFO] - Email sent to 'narasimha@sirmaindia.com'

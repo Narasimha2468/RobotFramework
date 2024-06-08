@@ -1,0 +1,2 @@
+d:\iborg\iborgagentsetup2.1.6\iborgagentsetup2.1.6\iborgenv\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)

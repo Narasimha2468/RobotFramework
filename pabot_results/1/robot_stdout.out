@@ -1,0 +1,23 @@
+==============================================================================
+Excel Driven Framework                                                        
+==============================================================================
+IBorgDataDrivenControl1                                               
+7-Zip 21.07 (x64) : Copyright (c) 1999-2021 Igor Pavlov : 2021-12-26
+
+Scanning the drive:
+5 folders, 3 files, 17180 bytes (17 KiB)
+
+Creating archive: D:\automation_project\Execution Summary\Execution_Summary_05_06_2024_18_01_08\Compressed Archive\Execution_Summary_05_06_2024_18_01_08.7z
+
+Add new data to archive: 5 folders, 3 files, 17180 bytes (17 KiB)
+
+
+Files read from disk: 3
+Archive size: 9759 bytes (10 KiB)
+Everything is Ok
+| PASS |
+------------------------------------------------------------------------------
+Excel Driven Framework                                                | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  D:\automation_project\pabot_results\1\output.xml
